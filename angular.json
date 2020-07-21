@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "miStore"
+    }
+  },
+  "defaultProject": "miStore",
+  "cli": {
+    "analytics": "ce00cb84-3aea-47f7-83c3-c42fe9bac42f"
+  }
 }
